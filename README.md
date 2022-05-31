@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### Who am I?
-#### A curious learner and creative team player, interested in the job role of Software Developer, where I can utilize my understanding of coding and
-software development to efficiently fulfill the requirements of organization.
+#### A curious learner and creative team player, interested in the job role of Software Developer, where I can utilize my understanding of coding and software development to efficiently fulfill the requirements of organization.
 
 <!--
 **nikhilkrdwivedi/nikhilkrdwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
