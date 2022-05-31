@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Who am I?
-####A curious learner and creative team player, interested in the job role of Software Developer, where I can utilize my understanding of coding and
+#### A curious learner and creative team player, interested in the job role of Software Developer, where I can utilize my understanding of coding and
 software development to efficiently fulfill the requirements of organization.
 
 <!--
