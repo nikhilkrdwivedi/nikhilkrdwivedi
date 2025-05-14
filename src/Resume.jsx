@@ -90,7 +90,6 @@ export default function Resume() {
     name: "Nikhil Kumar",
     title: "Senior Full Stack Developer",
     email: "nikhil.dwivedi@outlook.com",
-    phone: "+91-9628032001",
     location: "Bengaluru, Karnataka, India",
     objective: "A curious learner and creative team player, interested in the role of Software Developer, where I can utilize my understanding of coding and software development to efficiently fulfill the requirements of organization."
   };
@@ -519,7 +518,7 @@ export default function Resume() {
                       </div>
                     </div>
                     
-                    <div className="flex items-center">
+                    {/* <div className="flex items-center">
                       <div className="w-10 h-10 rounded-full bg-indigo-100 flex items-center justify-center text-indigo-600 mr-4">
                         <Phone size={20} />
                       </div>
@@ -529,7 +528,7 @@ export default function Resume() {
                           {personalInfo.phone}
                         </a>
                       </div>
-                    </div>
+                    </div> */}
                     
                     <div className="flex items-center">
                       <div className="w-10 h-10 rounded-full bg-indigo-100 flex items-center justify-center text-indigo-600 mr-4">
