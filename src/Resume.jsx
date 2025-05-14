@@ -17,7 +17,8 @@ import {
   ChevronUp,
   Menu,
   X,
-  ExternalLink
+  ExternalLink,
+  FileUser
 } from "lucide-react";
 import ContactForm from "./ContactForm";
 
@@ -181,10 +182,15 @@ export default function Resume() {
   // Social links
   const socialLinks = [
     {
-      name: "LinkedIn",
-      url: "https://www.linkedin.com/in/nikhilkrdwivedi",
-      icon: <Linkedin size={20} />
+      name: "Resume",
+      url: "https://drive.google.com/file/d/1dSQKz2IG2bmilpvAuH2_4iko66VUI3dS/view",
+      icon: <FileUser size={20} />
     },
+    {
+        name: "LinkedIn",
+        url: "https://www.linkedin.com/in/nikhilkrdwivedi",
+        icon: <Linkedin size={20} />
+      },
     {
       name: "GitHub",
       url: "https://github.com/nikhilkrdwivedi",
@@ -192,7 +198,7 @@ export default function Resume() {
     },
     {
       name: "Website",
-      url: "https://www.codeforcoder.com",
+      url: "https://whoisnikhil.com",
       icon: <Globe size={20} />
     },
     {
@@ -339,7 +345,7 @@ export default function Resume() {
               <div className="md:w-1/2 flex justify-center animate-float">
                 <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 bg-indigo-600 rounded-full overflow-hidden shadow-xl">
                   <div className="absolute inset-1 bg-white rounded-full flex items-center justify-center">
-                    <img src="/assets/nikhilkrdwivedi.png" alt="Nikhil Kumar" className="object-contain h-full w-full rounded-full scale-x-[-1]"/>
+                    <img src="/assets/nikhilkrdwivedi.webp" alt="Nikhil Kumar" className="object-contain h-full w-full rounded-full scale-x-[-1]"/>
                   </div>
                 </div>
               </div>
